@@ -12,7 +12,7 @@ The example is based on the methodology described in our research on citation pr
 
 ---
 
-# Overview
+## Overview
 
 
 
@@ -42,7 +42,7 @@ This repository demonstrates how to:
 
 
 
-# Dataset
+## Dataset
 
 
 
@@ -94,7 +94,7 @@ Citation counts and labels are used only for evaluation.
 
 
 
-# Prompt Design
+## Prompt Design
 
 
 
@@ -158,7 +158,7 @@ The full prompt template is implemented directly in the notebook.
 
 
 
-# Example Notebook
+## Example Notebook
 
 
 
@@ -192,7 +192,7 @@ The file  `demo 01-05.ipynb`  demonstrates the complete workflow:
 
 
 
-# Installation
+## Installation
 
 
 
