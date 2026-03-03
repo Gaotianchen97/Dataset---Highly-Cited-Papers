@@ -60,13 +60,13 @@ Each paper includes the following fields:
 
 - `keywords`: keywords (may be empty)  
 
-- `year\_cleaning`: publication year  
+- `year_cleaning`: publication year  
 
 - `publisher`: journal or publication source  
 
 - `Total Citations`: total citation count (for evaluation only)  
 
-- `highly\_cited\_5%`: binary label indicating whether the paper belongs to the top 5% most cited papers in its cohort  
+- `highly_cited_5%`: binary label indicating whether the paper belongs to the top 5% most cited papers in its cohort  
 
 
 
@@ -80,7 +80,7 @@ Importantly, the LLM prediction uses only:
 
 - keywords  
 
-- year\_cleaning  
+- year_cleaning  
 
 - publisher  
 
