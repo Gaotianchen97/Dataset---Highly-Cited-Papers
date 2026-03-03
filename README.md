@@ -162,15 +162,7 @@ The full prompt template is implemented directly in the notebook.
 
 
 
-The file
-
-
-
-demo 01-05.ipynb
-
-
-
-demonstrates the complete workflow:
+The file  `demo 01-05.ipynb`  demonstrates the complete workflow:
 
 
 
